@@ -1,4 +1,4 @@
-Project Title: Student portal
-Team Member: Noman and Wasay
-Course : SCM Lab
-Status :In progress
+Project Title: Student Library Portal
+Team Members: Noman and Wasay
+Course: SCM Lab
+Status: In Progress
