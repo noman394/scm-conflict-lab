@@ -1,4 +1,4 @@
 Project Title: Student Library Portal
 Team Members: Noman and Wasay
 Course: SCM Lab 07
-Status: In Progress
+Status: Completed
